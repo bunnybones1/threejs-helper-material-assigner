@@ -1,7 +1,7 @@
 {
   "name": "threejs-helper-material-assigner",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/bunnybones1/threejs-helper-material-assigner",
   "authors": [
     "Tomasz Dysinski <oz@bunnybones.com>"

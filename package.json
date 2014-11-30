@@ -1,0 +1,33 @@
+{
+  "name": "threejs-helper-material-assigner",
+  "version": "1.0.0",
+  "description": "A helper utility to quickly assign meshes with materials based on a property called materialName. A default material is applied if no named material if found, and a helpful console log lists unfound material names.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "threejs-managed-view": "^1.0.0",
+    "loadandrunscripts": "^1.0.0"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "threejs",
+    "material",
+    "helper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-helper-material-assigner.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-helper-material-assigner",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-helper-material-assigner/issues"
+  }
+}
